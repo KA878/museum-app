@@ -1,0 +1,35 @@
+html {
+    background-color: 
+  }
+
+body {
+    margin: 0%;
+    padding: 2rem 0;
+    width: 100%;
+    background: #FFBA00;
+    font-family: 'Inconsolata', monospace;
+    text-align: center;
+}
+
+#gallery {
+    background: white;
+    width: 90%;
+    align-self: center;
+}
+
+#content {
+    background: white;
+    width: 90%;
+    align-self: center;
+    padding: 2rem 0;
+}
+
+#msg {
+    align-self: center;
+}
+
+img {
+    display: block;
+    max-width: 90%;
+    height: auto;
+}
