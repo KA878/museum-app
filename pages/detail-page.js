@@ -31,8 +31,8 @@ const submitComment = function() {
     //console.log(commentSection.name);
     //console.log(commentSection.msg);
 
-    //h3.value = null;
-    //p.value = null;
+    h3.value = null;
+    p.value = null;
 
     
 }
